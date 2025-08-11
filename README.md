@@ -29,10 +29,17 @@ in the tech industry.
       <br/>CSS
     </td>
     <td align="center">
+      <img src="https://github.com/user-attachments/assets/c8b132fe-9022-492e-b566-a07e4ee15c4b" width="112" height="112" alt="js-pic" />
+      <br/>JavaScript
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
       <img src="https://github.com/user-attachments/assets/4118f043-8993-4488-9d05-823a3a693a37" width="112" height="112" alt="node-pic" />
       <br/>Node.js
     </td>
   </tr>
 </table>
+
 
 
