@@ -3,14 +3,17 @@
 <!--
 **Ndima-karabo17/Ndima-karabo17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My name is Ndima, a final-year Computer Science student at Tshwane University of Technology 
+and an apprentice at mLab Southern Africa. I am passionate about software development and 
+dedicated to growing my skills as a full-stack developer. I am committed to continuous learning
+and actively seeking opportunities to enhance my technical expertise and make a meaningful contribution
+in the tech industry.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on web development projects at mLab Southern Africa.
+- 🌱 I’m currently learning JavaScript, HTML, CSS and Python
+- 📫 How to reach me: mhangwanikarabo@gmail.com or https://www.linkedin.com/in/ndima-mhangwani-4761b332a/
+- 😄 Pronouns:Her/She
+
+
+
 -->
