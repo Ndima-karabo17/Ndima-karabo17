@@ -11,7 +11,7 @@ in the tech industry.
 - 🌱 I’m currently learning JavaScript, HTML, CSS and Python
 - 📫 How to reach me: mhangwanikarabo@gmail.com or https://www.linkedin.com/in/ndima-mhangwani-4761b332a/
 - 😄 Pronouns:Her/She
-
+<strong>Languages and tools</strong>
 <table>
   <tr>
     <td align="center">
