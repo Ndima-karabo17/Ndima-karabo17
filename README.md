@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi,I am Ndima 👋
 
 <!--
 **Ndima-karabo17/Ndima-karabo17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
