@@ -7,7 +7,7 @@ dedicated to growing my skills as a full-stack developer. I am committed to cont
 and actively seeking opportunities to enhance my technical expertise and make a meaningful contribution
 in the tech industry.
 
-- 🔭 I’m currently working on web development projects at mLab Southern Africa.
+- 🔭 I’m currently working on Full Stack development projects at mLab Southern Africa.
 - 🌱 I’m currently learning JavaScript, HTML, CSS and Python
 - 📫 How to reach me: mhangwanikarabo@gmail.com or https://www.linkedin.com/in/ndima-mhangwani-4761b332a/
 - 😄 Pronouns:Her/She
