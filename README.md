@@ -9,7 +9,7 @@ in the tech industry.
 
 - 🔭 I’m currently working on Full Stack development projects at mLab Southern Africa.
 - 🌱 I’m currently learning JavaScript, HTML, CSS, Python, Node.js and TypeScript
-- 📫 How to reach me: mhangwanikarabo@gmail.com or https://www.linkedin.com/in/ndima-mhangwani-4761b332a/
+- 📫 How to reach me: mhangwanikarabo@gmail.com or www.linkedin.com/in/ndima-mhangwani-4761b332a
 - 😄 Pronouns:Her/She
   <br>
 <strong>Languages and tools</strong>
