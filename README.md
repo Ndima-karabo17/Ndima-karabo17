@@ -47,10 +47,28 @@ in the tech industry.
       <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="100" alt="sql-pic" />
       <br/>SQL
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="80" alt="typescript-pic" />
+      <br/>TypeScript
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="80" alt="react-pic" />
+      <br/>React
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width="80" alt="redux-pic" />
+      <br/>Redux
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg" width="100" alt="tailwindcss-pic" />
+      <br/>Tailwind CSS
+    </td>
     <td></td>
   </tr>
 </table>
+
 
 
 
