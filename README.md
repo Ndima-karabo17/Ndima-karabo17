@@ -65,9 +65,13 @@ in the tech industry.
       <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg" width="100" alt="tailwindcss-pic" />
       <br/>Tailwind CSS
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="80" alt="figma-pic" />
+      <br/>Figma
+    </td>
   </tr>
 </table>
+
 
 
 
